@@ -77,11 +77,20 @@ me.say_hi()
 
 <hr/>
 
+<div align="center">
+    <h2> 🧐 Algorithm 🧐 </h3>
+    <br>
+    
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aop8021)](https://solved.ac/aop8021)
+<img src="http://mazandi.herokuapp.com/api?handle=aop8021&theme=warm"/>
+
+</div>
+
+<hr>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Kakaotalk+📞;I'm+always+down+to+collab+😎">
 </h3>
-
-<br/>
 
 <!--
 **ssafyjiyong/ssafyjiyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
