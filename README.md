@@ -48,21 +48,33 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ssafyjiyong/ssafyjiyong/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> 😊 Me In Code 😊 </h2>
 <br>
-<div align=center>
-  
-</div>
 
-<br/><br/>
+```python
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Jiyong Kim"
+        self.businessname = "Jeffrey"
+        self.role = "Software Engineer"
+        self.language_spoken = ["kr_KO", "en_US", "es_MX"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 <hr/>
 
 <h3 align="center">
