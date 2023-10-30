@@ -27,7 +27,7 @@
   <a href="https://open.kakao.com/o/grSbqTFf" >
     <img src="https://img.shields.io/badge/Kakaotalk-ECD53F?style=for-the-badge&logo=kakaotalk&logoColor=grey" />
   </a>
-  <a href="#" >
+  <a href="https://github.com/ssafyjiyong/Portfolio-Site" >
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
     <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
