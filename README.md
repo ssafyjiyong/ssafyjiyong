@@ -12,9 +12,9 @@
  
  🔭 I’m currently seeking **a suitable position**
  
- 🌱 I’m currently learning **JavaScript, Vue, Node.js**
+ 🌱 I’m currently learning **TypeScript, Next.js, Three.js**
 
- 💬 Feel free to ask me about **HTML5, Django... or anything**
+ 💬 Feel free to ask me about **CSS3, React... or anything**
 
  ⚡ Fun fact: **Rabbits don't really like carrots, despite Bugs Bunny cartoons suggesting otherwise**
  
@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,vue,nodejs,vite,pinia,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,linux,django,sqlite,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,vue,nodejs,vite,pinia,vscode,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,django,sqlite,docker,notion,git,github" />
   
   <br>
 </div>
@@ -47,13 +47,11 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ssafyjiyong/ssafyjiyong/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
-
+  <h2 align="center">🏆 Awards 🏆</h2>
+🥇SSAFY 2학기 프로젝트 경진대회 1위 (2024.02)
+<br/>
+🥈SSAFY 1학기 프로젝트 경진대회 2위 (2023.11)
+<br/>
 <hr/>
 
 <h2 align="center"> 😊 Me In Code 😊 </h2>
@@ -78,6 +76,14 @@ me.say_hi()
 
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ssafyjiyong/ssafyjiyong/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Kakaotalk+📞;I'm+always+down+to+collab+😎">
