@@ -12,7 +12,7 @@
  
  🔭 I’m currently seeking **a suitable position**
  
- 🌱 I’m currently learning **TypeScript, Next.js, Three.js**
+ 🌱 I’m currently learning **Next.js, Three.js**
 
  💬 Feel free to ask me about **CSS3, React... or anything**
 
@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,vue,nodejs,vite,pinia,vscode,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,django,sqlite,docker,notion,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,threejs,vue,nodejs,vite,pinia,vscode,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,styledcomponents,django,sqlite,docker,notion,git,github" />
   
   <br>
 </div>
@@ -48,9 +48,13 @@
 <hr/>
 
   <h2 align="center">🏆 Awards 🏆</h2>
-🥇SSAFY 2학기 프로젝트 경진대회 1위 (2024.02)
+<!-- 🥉<a href="https://github.com/ssafyjiyong/ConstellationWatchingService">SSAFY 2학기 자율 프로젝트 경진대회 우수상 (2024.05)</a>
+<br/> -->
+🥉<a href="https://github.com/ssafyjiyong/FutsalAnalysisApp">SSAFY 2학기 특화 프로젝트 경진대회 우수상 (2024.04)</a>
 <br/>
-🥈SSAFY 1학기 프로젝트 경진대회 2위 (2023.11)
+🥇<a href="https://github.com/ssafyjiyong/FishingAssistantApp">SSAFY 2학기 공통 프로젝트 경진대회 우수상 (2024.02)</a>
+<br/>
+🥈<a href="https://github.com/ssafyjiyong/MovieRecommendationWeb">SSAFY 1학기 관통 프로젝트 경진대회 우수상 (2023.11)</a>
 <br/>
 <hr/>
 
