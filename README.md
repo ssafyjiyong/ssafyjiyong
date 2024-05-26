@@ -48,8 +48,6 @@
 <hr/>
 
   <h2 align="center">🏆 Awards 🏆</h2>
-<!-- 🥉<a href="https://github.com/ssafyjiyong/ConstellationWatchingService">SSAFY 2학기 자율 프로젝트 경진대회 우수상 (2024.05)</a>
-<br/> -->
 🥉<a href="https://github.com/ssafyjiyong/FutsalAnalysisApp">SSAFY 2학기 특화 프로젝트 경진대회 우수상 (2024.04)</a>
 <br/>
 🥇<a href="https://github.com/ssafyjiyong/FishingAssistantApp">SSAFY 2학기 공통 프로젝트 경진대회 우수상 (2024.02)</a>
