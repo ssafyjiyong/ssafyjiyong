@@ -12,9 +12,9 @@
  
  🔭 I’m currently seeking **a suitable position**
  
- 🌱 I’m currently learning **Next.js, Three.js**
+ 🌱 I’m currently learning **Computer Science, Cloud(AWS, GCP, Azure)**
 
- 💬 Feel free to ask me about **CSS3, React... or anything**
+ 💬 Feel free to ask me about **Application Security, Cloud Security... or anything**
 
  ⚡ Fun fact: **Rabbits don't really like carrots, despite Bugs Bunny cartoons suggesting otherwise**
  
