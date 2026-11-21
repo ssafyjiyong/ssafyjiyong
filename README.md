@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Jiyong+Kim😊;" />
 </h1>
 
-<h3 align="center">⭐An open-minded software developer⭐</h3>
+<h3 align="center">🛡️ Cloud Security Advisory · Application Security · Security Architecture</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently seeking **a suitable position**
+ 🔭 I’m currently working at **MegazoneCloud** as a **Cloud Security Advisory (Pre-Sales)**
  
- 🌱 I’m currently learning **Computer Science, Cloud(AWS, GCP, Azure)**
+ 🌱 I’m currently focusing on **Cloud Security Architecture, DevSecOps (Security CI/CD · IaC), & GenAI Security on AWS**
 
  💬 Feel free to ask me about **Application Security, Cloud Security... or anything**
 
@@ -21,26 +21,43 @@
  </div>
  
 <div align="center"> 
+  <a href="https://www.linkedin.com/in/jiyong-jeffrey-kim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:aop8021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://open.kakao.com/o/grSbqTFf" >
     <img src="https://img.shields.io/badge/Kakaotalk-ECD53F?style=for-the-badge&logo=kakaotalk&logoColor=grey" />
   </a>
-  <a href="https://github.com/ssafyjiyong/Portfolio-Site" >
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-    <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
+
+<h2 align="center">💼 Experience 💼</h2>
+
+- **MegazoneCloud** — *Cloud Security Advisory (Pre-Sales)* (`2026.05 – Present`)
+  - 클라우드 보안 아키텍처 설계, 규제 대응 컨설팅 및 Security CI/CD · IaC 자동화
+- **Sparrow Co., Ltd.** — *Global Business Development & Vulnerability Consulting* (`2024.11 – 2026.05`)
+  - 애플리케이션 보안 진단(SAST·DAST·SCA) 및 결과 분석, CI/CD·API 보안 적용 자문, 글로벌 파트너십
+- **이지플랫전자결제** — *Software Application Developer* (`2024.08 – 2024.09`)
+  - 내부 시스템 개발 및 애플리케이션 보안 통제 구현(코드 난독화, 민감정보 암호화, 접근 통제)
+- **삼성청년SW·AI아카데미 (SSAFY)** — *10기 교육생* (`2023.07 – 2024.06`)
+
+<hr/>
+
+<h2 align="center">📜 Licenses & Certifications 📜</h2>
+
+- **Cloud & Security**: `Google Cloud Professional Security Operations Engineer (PSOE)` (2026.11) · `AWS Certified Security - Specialty` (2026.08) · `Security Engineering on AWS` (2026.07) · `Wiz Partner Sales Professional` (2026.08) · `GitGuardian Pre-Sales Tech Pro` (2026.10)
+- **National & Privacy**: `정보처리기사` (2026.09) · `개인정보관리사 (CPPG)` (2025.12) · `정보보호위험관리사 (ISRM)` (2025.12) · `해킹보안전문가 1급` (2025.12) · `리눅스 마스터 2급` (2023.12)
+
+<hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Cloud · Security · Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,threejs,vue,nodejs,vite,pinia,vscode,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,styledcomponents,django,sqlite,docker,notion,git,github" />
-  
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,githubactions,git,github,vscode,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,threejs,vue,nodejs,django,sqlite" />
   <br>
 </div>
 
@@ -60,19 +77,21 @@
 <br>
 
 ```python
-class SoftwareEngineer:
+class CloudSecurityAdvisor:
 
     def __init__(self):
         self.name = "Jiyong Kim"
         self.businessname = "Jeffrey"
-        self.role = "Software Engineer"
+        self.company = "MegazoneCloud"
+        self.role = "Cloud Security Advisory (Pre-Sales)"
+        self.focus = ["Cloud Security", "AppSec (SAST/DAST/SCA)", "Security Architecture"]
         self.language_spoken = ["kr_KO", "en_US", "es_MX"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = CloudSecurityAdvisor()
 me.say_hi()
 ```
 
